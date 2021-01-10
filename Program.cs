@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 
 namespace SqlDataReader_Class_ConsoleApp
 {
-    //Source https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqldatareader?view=dotnet-plat-ext-5.0#:~:text=To%20create%20a%20SqlDataReader%2C%20you,SqlConnection%20other%20than%20closing%20it.
+    //Source https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqldatareader?view=dotnet-plat-ext-5.0#:~:text=To%20create%20a%20SqlDataReader%2C%20you,SqlConnection%20other%20than%20closing%20it.   //ok
 
 
     class Program
